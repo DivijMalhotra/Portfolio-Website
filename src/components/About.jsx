@@ -29,6 +29,8 @@ const About = () => {
               'AI Enthusiast',
               1000,
               'Problem Solver',
+              1000,
+              'Backend Proficient',
               1000
             ]}
             wrapper="span"
